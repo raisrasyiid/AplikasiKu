@@ -1,0 +1,21 @@
+aplikasi katalog butik berbasis android
+
+user, petugas gudang, pelanggan, pemilik
+
+-login (username, pass => true = dashboard)
+-lihat dashboard (akun, kategori, all produk, logout)
+-kelola akun (form, email, pass)
+-melihat kategori produk (foto, nama kategori)
+-melihat produk berdasarkan kategori yang dipilih (foto, nama produk, harga produk,
+ stok produk)
+-melihat semua produk (foto, nama produk, harga produk,
+ stok produk, nama kategori)
+-melihat detail produk (foto, nama produk, nama kategori, deskripsi, stok, 
+harga)
+-logout (hanya button)
+
+
+
+**
+FULL LAYAR : MATCH PARENT
+TINGGI(INPUT TYPE) WRAP CONTENT
